@@ -4,4 +4,4 @@ Desc
 
 ## Canonical Source
 
-https://git.knowbl.co/dev/key-gen
+The canonical source for Key Gen is https://git.knowbl.co/dev/key-gen
